@@ -1,0 +1,10 @@
+# Folders.
+__pycache__/
+.vscode/
+
+# Environment.
+Pipfile
+Pipfile.lock
+
+# Files.
+config.py
